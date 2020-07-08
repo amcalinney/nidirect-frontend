@@ -1,7 +1,10 @@
 {
 "name": "nidirect-frontend",
-"version": "1.0.2",
+"version": "1.0.3",
 "description": "NPM package containing the nidirect branding frontend code",
+"dependencies": {
+	"govuk-frontend": "6.14.5"
+}
 "main": "index.js",
 "scripts": {
 	"test": "echo\"Error: no test specified\" && exit 1"
