@@ -1,6 +1,6 @@
 # Guidance for installing the nidirect-frontend node.js package manager (npm) package
 ##  Before you install the nidirect-frontend package
- - you need to install the [govuk-frontend npm package](https://www.npmjs.com/package/govuk-frontend).  For guidance on how to do this, visit the [GOV.UK frontend website](https://frontend.design-system.service.gov.uk/installing-with-npm/#requirements).
+ - You need to install [node.js](https://nodejs.org/en/) the [govuk-frontend npm package](https://www.npmjs.com/package/govuk-frontend).  For guidance on how to do this, visit the [GOV.UK frontend website](https://frontend.design-system.service.gov.uk/installing-with-npm/#requirements).
 ## Installing the nidirect-frontend package
 ### Within the command line window
 - You must navigate to the root folder of your application.  You can do this by using the change directory command `cd` to move to the location of your application. For example: 
