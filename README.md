@@ -1,17 +1,19 @@
 # Guidance for installing the nidirect-frontend node.js package manager (npm) package
 ##  Before you install the nidirect-frontend package
  - You need to install [node.js](https://nodejs.org/en/) and the [govuk-frontend npm package](https://www.npmjs.com/package/govuk-frontend).  For guidance on how to do this, visit the [GOV.UK frontend website](https://frontend.design-system.service.gov.uk/installing-with-npm/#requirements).
-## Installing the nidirect-frontend package
-### Within the command line window
-- You must navigate to the root folder of your application.  You can do this by using the change directory command `cd` to move to the location of your application. For example: 
+## Installing the nidirect-frontend package using the command prompt application
+### Within the command line window:
+- Open a command line window
+- Navigate to the root folder of your application.  Using the change directory command `cd` followed by the path to the root folder. 
 
+For example: 
   `cd user/documents/myapplication` 
   
-- Within your application's root folder, you can install the npm package using node.js.  To do this, enter:
+- Within your application's root folder, install the npm package using the command:
 
   `npm i nidirect-frontend`
   
-  This should install the nidirect-frontend package in the same folder that your govuk-frontend package is held.
+ When the installation finishes, the nidirect-frontend package will be in the same folder that govuk-frontend package is held.
   
 ## Implementing the code in your project using your integrated development environment (IDE)
 **Note:** This example is uses the IDE, 'Visual Studio Code' and the extension, 'Live Sass Compiler'.  Similar extensions and plugins can be found within most popular IDEs.  The SASS can also be compiled manually using command line if you prefer.
