@@ -17,7 +17,7 @@ You will need to:
 
 3. Within your application's root folder, install the npm package using the command:
 
-  `npm i nidirect-frontend`
+   `npm i nidirect-frontend`
   
 4. When the installation finishes, the nidirect-frontend package will be in the same folder that govuk-frontend package is held.
   
