@@ -3,7 +3,7 @@
 "version": "3.0.0",
 "description": "NPM package containing the nidirect branding frontend code",
 "dependencies": {
-	"govuk-frontend": "*"
+	"govuk-frontend": ">=5.0.0"
 	},
 "main": "index.js",
 "scripts": {
