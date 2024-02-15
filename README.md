@@ -11,7 +11,7 @@ You will need to:
 
 ## Installing the nidirect-frontend package
 1. Open a command line window
-2. Use the change directory command `cd` followed by the path to the root folder of your application.   
+2. Navigate to root folder of your application using the change directory command `cd` followed by the path to the root folder of your application.   
 
    For example: `cd user/documents/myapplication`  
 
